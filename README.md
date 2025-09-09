@@ -10,9 +10,10 @@ No importa si eres un experto desarrollador o si apenas logras encender una comp
 
 ¡Te esperamos con los brazos abiertos!
 
-```
-Toda la documentación que ves aqui es una recopilación de recursos de internet y experiencias propias puramente con fines didácticos, si encuentras algún error o conoces una mejor forma de realizar los proyectos no dudes en contactarnos. El uso de estos recursos y su implementación en ambitos por fuera de lo educativo queda bajo su responsabilidad.
-```
+|**DISCLAIMER**|
+|:---:|
+|Toda la documentación que ves aqui es una recopilación de recursos de internet y experiencias propias puramente con fines didácticos, si encuentras algún error o conoces una mejor forma de realizar los proyectos no dudes en contactarnos. El uso de estos recursos y su implementación en ambitos por fuera de lo educativo queda bajo su responsabilidad.|
+
 # Nuestros proyectos
 Utilizar markdown
 
