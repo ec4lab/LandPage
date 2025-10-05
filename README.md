@@ -1,25 +1,26 @@
-# Somos EC4lab
+# Esto es EC4lab
 
 ![EC4lab](imagenes/EC4lab_logo.png "Laboratorio de Electrónica, computación y automatización")
 
-Este proyecto es es un espacio para que todos podamos experimentar y desarrollar dispositivos electrónicos, sofware y automatizaciones en la infustria y el hogar. Estamos abiertos a explorar todo tipo de dispositivos y plataformas.
+Este proyecto es una invitación a experimentar y desarrollar dispositivos electrónicos, software y automatizaciones en la industria y el hogar. Estamos abiertos a explorar todo tipo de dispositivos y plataformas.
 
-¡Nos encantaría que te unas a nosotros! Puedes colaborar con ideas, proyectos, información, traducciones o cualquier cosa que creas que pueda ayudar a que el proyecto y la comunidad crezcan.
+¡Nos encantaría que seas parte! Ideas, proyectos, información, traducciones o cualquier cosa son valiosos aportes para esta comunidad crezca.
 
-No importa si eres un experto desarrollador o si apenas logras encender una computadora, nuestra documentación está pensada para que cualquier persona, sin importar su nivel de conocimiento, pueda llevar a cabo los proyectos. Aquí encontrarás todas las herramientas necesarias para la implementación.
+Esta es una invitación abierta que no requiere conocimientos previos. La documentación está pensada para que cualquier persona, sin importar su nivel de conocimiento, pueda llevar a cabo los proyectos. 
 
 ¡Te esperamos con los brazos abiertos!
 
-|**DISCLAIMER**|
-|:---:|
-|Toda la documentación que ves aqui es una recopilación de recursos de internet y experiencias propias puramente con fines didácticos, si encuentras algún error o conoces una mejor forma de realizar los proyectos no dudes en contactarnos. El uso de estos recursos y su implementación en ambitos por fuera de lo educativo queda bajo su responsabilidad.|
+>Toda la documentación que ves aqui es una recopilación de recursos de internet y experiencias propias puramente con fines didácticos, si encuentras algún error o conoces una mejor forma de realizar los proyectos no dudes en contactarnos. El uso de estos recursos y su implementación en ambitos por fuera de lo educativo queda bajo su responsabilidad.
 
-# Nuestros proyectos
-Utilizar markdown
+## 🏗️ Nuestros proyectos
+[Utilizar markdown](https://github.com/ec4lab/markdown)
+---
 
 Primeros pasos con git y github
 
-Domotica - HomeAssistant
+
+[Domótica - HomeAssistant](https://github.com/ec4lab/domotica)
+---
 
 Robotica
 
